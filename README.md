@@ -37,7 +37,7 @@ For those of you who don't know what "DynamicFOV" is, it's located in your "Vide
 ## 
 <h1 align="center">
   <br>
-  <a href="https://github.com/SULFURA/MCOptimizer"><img src="https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/DynamicFOV.png" alt="MCOptimizer" width="200"></a>
+  <a href="https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/DynamicFOV.png"><img src="https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/DynamicFOV.png" alt="MCOptimizer" width="300"></a>
   <br>
 </h1>
 
