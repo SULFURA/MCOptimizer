@@ -215,7 +215,7 @@ goto 1.7.10_GPU
 
 :1.7.10_GPU_DynOFF
 cls
-curl -g -L -# -o "C:\Users\%username%\AppData\.minecraft\optionsof.txt" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/1.7.10_GPU_DynOFF.txt"
+curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\.minecraft\optionsof.txt" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/1.7.10_GPU_DynOFF.txt"
 SET msgboxTitle=IMPORTANT
 SET msgboxBody=Open your game and set your Render Distance between 2 - 8 and your FPS to Unlimited
 SET tmpmsgbox=%temp%\~tmpmsgbox.vbs
@@ -226,7 +226,7 @@ exit
 
 :1.7.10_GPU_DynON
 cls
-curl -g -L -# -o "C:\Users\%username%\AppData\.minecraft\optionsof.txt" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/1.7.10_GPU_DynON.txt"
+curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\.minecraft\optionsof.txt" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/1.7.10_GPU_DynON.txt"
 SET msgboxTitle=IMPORTANT
 SET msgboxBody=Open your game and set your Render Distance between 2 - 8 and your FPS to Unlimited
 SET tmpmsgbox=%temp%\~tmpmsgbox.vbs
@@ -280,7 +280,7 @@ goto 1.8.9_GPU
 
 :1.8.9_GPU_DynOFF
 cls
-curl -g -L -# -o "C:\Users\%username%\AppData\.minecraft\optionsof.txt" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/1.8.9_GPU_DynOFF.txt"
+curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\.minecraft\optionsof.txt" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/1.8.9_GPU_DynOFF.txt"
 SET msgboxTitle=IMPORTANT
 SET msgboxBody=Open your game and set your Render Distance between 2 - 8 and your FPS to Unlimited
 SET tmpmsgbox=%temp%\~tmpmsgbox.vbs
@@ -291,7 +291,7 @@ exit
 
 :1.8.9_GPU_DynON
 cls
-curl -g -L -# -o "C:\Users\%username%\AppData\.minecraft\optionsof.txt" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/1.8.9_GPU_DynON.txt"
+curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\.minecraft\optionsof.txt" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/1.8.9_GPU_DynON.txt"
 SET msgboxTitle=IMPORTANT
 SET msgboxBody=Open your game and set your Render Distance between 2 - 8 and your FPS to Unlimited
 SET tmpmsgbox=%temp%\~tmpmsgbox.vbs
@@ -388,7 +388,7 @@ goto 1.7.10_iGPU
 
 :1.7.10_iGPU_DynOFF
 cls
-curl -g -L -# -o "C:\Users\%username%\AppData\.minecraft\optionsof.txt" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/1.7.10_iGPU_DynOFF.txt"
+curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\.minecraft\optionsof.txt" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/1.7.10_iGPU_DynOFF.txt"
 SET msgboxTitle=IMPORTANT
 SET msgboxBody=Open your game and set your Render Distance between 2 - 5 and your FPS to 255
 SET tmpmsgbox=%temp%\~tmpmsgbox.vbs
@@ -399,7 +399,7 @@ exit
 
 :1.7.10_iGPU_DynON
 cls
-curl -g -L -# -o "C:\Users\%username%\AppData\.minecraft\optionsof.txt" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/1.7.10_iGPU_DynON.txt"
+curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\.minecraft\optionsof.txt" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/1.7.10_iGPU_DynON.txt"
 SET msgboxTitle=IMPORTANT
 SET msgboxBody=Open your game and set your Render Distance between 2 - 5 and your FPS to 255
 SET tmpmsgbox=%temp%\~tmpmsgbox.vbs
@@ -453,7 +453,7 @@ goto 1.8.9_iGPU
 
 :1.8.9_iGPU_DynOFF
 cls
-curl -g -L -# -o "C:\Users\%username%\AppData\.minecraft\optionsof.txt" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/1.8.9_iGPU_DynOFF.txt"
+curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\.minecraft\optionsof.txt" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/1.8.9_iGPU_DynOFF.txt"
 SET msgboxTitle=IMPORTANT
 SET msgboxBody=Open your game and set your Render Distance between 2 - 5 and your FPS to 255
 SET tmpmsgbox=%temp%\~tmpmsgbox.vbs
@@ -464,7 +464,7 @@ exit
 
 :1.8.9_iGPU_DynON
 cls
-curl -g -L -# -o "C:\Users\%username%\AppData\.minecraft\optionsof.txt" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/1.8.9_iGPU_DynON.txt"
+curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\.minecraft\optionsof.txt" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/1.8.9_iGPU_DynON.txt"
 SET msgboxTitle=IMPORTANT
 SET msgboxBody=Open your game and set your Render Distance between 2 - 5 and your FPS to 255
 SET tmpmsgbox=%temp%\~tmpmsgbox.vbs
