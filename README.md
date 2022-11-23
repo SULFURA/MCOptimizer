@@ -32,6 +32,10 @@ To use this script, download it <a href="https://github.com/SULFURA/MCOptimizer/
 
 Be sure to read the popups that appear to get the best gaming experience possible.
 
+For those who don't know the difference between a GPU & an iGPU.
+* GPU = In other words, a real graphics card (NVIDIA, AMD or Intel Arc) the one you plug into your PCIe slots.
+* iGPU = An integrated graphics processor, that is when your CPU (processor) serves you as both a processor and a graphics processor.
+
 For those of you who don't know what "DynamicFOV" is, it's located in your "Video Settings..." options in your game. Please choose the same DynamicFOV on the script that you currently have on your game.
 
 ## 
