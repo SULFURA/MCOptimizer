@@ -30,6 +30,9 @@
 
 To use this script, download it <a href="https://github.com/SULFURA/MCOptimizer/releases/latest" target="_blank">HERE</a> and launch it as an Administrator.
 
+It will only work in the directory: `C:\Users\%username%AppData\Roaming\.minecraft`
+If you want to use it for other directories, use the script and at the very end when it closes, copy/paste the "optionsof.txt" of your .minecraft into the directories you want.
+
 Be sure to read the popups that appear to get the best gaming experience possible.
 
 For those who don't know the difference between a GPU & an iGPU.
