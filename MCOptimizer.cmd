@@ -227,14 +227,14 @@ if exist "C:\Users\%username%\AppData\Roaming\.az-client\config\" (
 
 :: Badlion Client
 if exist "C:\Users\%username%\AppData\Roaming\.minecraft\BLClient-Mod-Profiles\" (
-	curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\.minecraft\badlion_settings.json" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/Badlion Client/badlion_settings.json"
-	curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\.minecraft\BLClient-Mod-Profiles\Vanilla.zip" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/Badlion Client/Vanilla.zip"
+	curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\.minecraft\badlion_settings.json" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/BadlionClient/badlion_settings.json"
+	curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\.minecraft\BLClient-Mod-Profiles\Vanilla.zip" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/BadlionClient/Vanilla.zip"
 )
 
 :: Badlion Client Lite
 if exist "C:\Users\%username%\AppData\Roaming\.minecraft\BLClient-Mod-Profiles\" (
-	curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\.minecraft\badlion_settings.json" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/Badlion Client Lite/badlion_settings.json"
-	curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\.minecraft\BLClient-Mod-Profiles\Vanilla.zip" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/Badlion Client Lite/Vanilla.zip"
+	curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\.minecraft\badlion_settings.json" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/BadlionClientLite/badlion_settings.json"
+	curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\.minecraft\BLClient-Mod-Profiles\Vanilla.zip" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/BadlionClientLite/Vanilla.zip"
 ) 
 
 :: BatMod
@@ -365,7 +365,7 @@ if exist "C:\Users\%username%\AppData\Roaming\.Salwyrr\" (
 
 :: Solar Tweaks
 if exist "C:\Users\%username%\.lunarclient\solartweaks\" (
-	curl -g -L -# -o "C:\Users\%username%\.lunarclient\solartweaks\config.json" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/Solar Tweaks/config.json"
+	curl -g -L -# -o "C:\Users\%username%\.lunarclient\solartweaks\config.json" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/SolarTweaks/config.json"
 	curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\solartweaks\settings.json" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/SolarTweaks/settings.json"
 )
 
