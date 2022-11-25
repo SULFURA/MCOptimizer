@@ -1,0 +1,24 @@
+{
+  "mod": "schematica",
+  "keycode": 0,
+  "enabled": "false",
+  "properties": {
+    "render_distance": "8",
+    "alpha": "false",
+    "alpha_percent": "1.0",
+    "block_delta": "0.005",
+    "dmp_blocks": "false",
+    "debug_info": "false",
+    "blocks_highlight": "true",
+    "air_highlight": "true",
+    "printer": "true",
+    "place_delay": "1",
+    "place_distance": "5",
+    "place_instantly": "false",
+    "place_adjacent": "true",
+    "destroy_instantly": "false",
+    "timeout": "10",
+    "destroy_blocks": "false"
+  },
+  "advancedProperties": {}
+}

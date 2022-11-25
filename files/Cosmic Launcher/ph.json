@@ -1,0 +1,34 @@
+{
+  "mod": "ph",
+  "keycode": 0,
+  "enabled": "false",
+  "position": "MIDDLE_LEFT",
+  "x": 3.0,
+  "y": 0.0,
+  "properties": {
+    "ph_scale": "1.0",
+    "name": "true",
+    "name_color": {
+      "value": -1,
+      "name_color_rainbow": "false"
+    },
+    "lbl_enabled": "true",
+    "lbl_name": {
+      "value": "Potion Status",
+      "bold": "true",
+      "italic": "false",
+      "underline": "true"
+    },
+    "lbl_color": {
+      "value": -43521,
+      "lbl_color_rainbow": "false"
+    },
+    "blink": "true",
+    "blink_at": "10",
+    "blink_color": {
+      "value": -1,
+      "blink_color_rainbow": "false"
+    }
+  },
+  "advancedProperties": {}
+}

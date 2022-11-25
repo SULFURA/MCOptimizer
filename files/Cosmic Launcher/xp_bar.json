@@ -1,0 +1,10 @@
+{
+  "mod": "xp_bar",
+  "keycode": 0,
+  "enabled": "true",
+  "position": "TOP_MIDDLE",
+  "x": 0.0,
+  "y": 40.0,
+  "properties": {},
+  "advancedProperties": {}
+}

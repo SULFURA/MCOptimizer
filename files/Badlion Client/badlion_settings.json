@@ -1,0 +1,154 @@
+{
+  "latestPatchNotesRead": "none",
+  "lastBlcVersionPopupShown": "",
+  "convertedToSingleModProfilesFolder": false,
+  "clickedSocialLinks": false,
+  "timesLaunched": 1,
+  "timesLaunchedLite": 0,
+  "favoriteSinglePlayerWorlds": [],
+  "favoriteMultiPlayerWorlds": [],
+  "favoriteBacServers": [],
+  "favoriteResourcePacks": [],
+  "favoriteCosmetics": [],
+  "favoriteCosmeticsIds": [],
+  "savedResourcePackProfiles": {},
+  "activeResourcePackProfile": "Default Profile",
+  "activeMenuStyle": "Transparent",
+  "resetMenuStyleNewUi": true,
+  "modMenuType": "SLIDEOUT_SQUARE",
+  "titleMenuType": "MINIMAL",
+  "onboarded": true,
+  "pickedMenu": false,
+  "skippedTutorial": false,
+  "hadModWarning": true,
+  "had117Warning": false,
+  "showedExperimentalFPSBoostPopup": false,
+  "defaultModBackgroundColor": "old-blue",
+  "viewedPanels": [
+    "https://assets.badlion.net/client/images/BlackFriday2022Mid.png"
+  ],
+  "globalSearchKey": {
+    "keyCode": "KEY_K",
+    "ctrlDown": {
+      "value": true
+    },
+    "altDown": {
+      "value": false
+    },
+    "shiftDown": {
+      "value": false
+    }
+  },
+  "reloadStylesKey": {
+    "keyCode": "KEY_R",
+    "ctrlDown": {
+      "value": false
+    },
+    "altDown": {
+      "value": true
+    },
+    "shiftDown": {
+      "value": false
+    }
+  },
+  "debugUIKey": {
+    "keyCode": "KEY_D",
+    "ctrlDown": {
+      "value": false
+    },
+    "altDown": {
+      "value": true
+    },
+    "shiftDown": {
+      "value": false
+    }
+  },
+  "serverListView": "ALL",
+  "resourcePackSortType": "NAME_ASC",
+  "transparentResourcePacksMenuBackground": false,
+  "doMemoryDebug": {
+    "value": true
+  },
+  "uiScaleFactor": "NORMAL",
+  "viewedInfoPopups": {
+    "settings-menu": 1,
+    "escape-menu": 1,
+    "title-menu": 4
+  },
+  "viewedModOptions": {
+    "3.12": []
+  },
+  "launchTimes": {
+    "3.12.0": 1
+  },
+  "showBLCShadersPopup": true,
+  "notificationPosition": "BOTTOM_RIGHT",
+  "roundedNotifications": {
+    "value": false
+  },
+  "outlineNotifications": {
+    "value": false
+  },
+  "notificationSlideSpeed": {
+    "value": 500.0
+  },
+  "allowNotificationsFromServers": {
+    "value": false
+  },
+  "menuAnimations": {
+    "value": true
+  },
+  "menuAnimationSpeed": {
+    "value": 1.0
+  },
+  "pmAlerts": {
+    "value": true
+  },
+  "publicChatAlerts": {
+    "value": false
+  },
+  "openBlcChat": {
+    "keyCode": "KEY_L",
+    "ctrlDown": {
+      "value": true
+    },
+    "altDown": {
+      "value": false
+    },
+    "shiftDown": {
+      "value": false
+    }
+  },
+  "alertOfflineFriendRequest": {
+    "value": true
+  },
+  "pendingFriendRequests": [],
+  "dataPackEditorSettings": {
+    "colorMode": "TRANSPARENT",
+    "fontSize": {
+      "value": 22
+    }
+  },
+  "blcLite": {
+    "value": false
+  },
+  "launchedLite": {
+    "value": false
+  },
+  "interactedLiteTime": {
+    "value": false
+  },
+  "displayLiteProfileIntro": {
+    "value": false
+  },
+  "interactedModFromMenu": {
+    "value": false
+  },
+  "displayedRawInputPopup": {
+    "value": true
+  },
+  "displayedLitePromoPopup": {
+    "value": true
+  },
+  "activeProfile": "Vanilla"
+}

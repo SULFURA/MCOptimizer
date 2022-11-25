@@ -1,0 +1,13 @@
+{
+  "mod": "xp_text",
+  "keycode": 0,
+  "enabled": "true",
+  "position": "MIDDLE_LEFT",
+  "x": 380.0,
+  "y": 0.0,
+  "properties": {
+    "display_xp_values": "true",
+    "display_personal_xp": "true"
+  },
+  "advancedProperties": {}
+}

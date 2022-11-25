@@ -1,0 +1,307 @@
+{
+  "servers": [
+    {
+      "name": "Hypixel",
+      "ip": "hypixel.net",
+      "background": 7
+    },
+    {
+      "name": "Minemen Club",
+      "ip": "na.minemen.club",
+      "background": 3
+    },
+    {
+      "name": "Lunar Network",
+      "ip": "lunar.gg",
+      "background": 1
+    },
+    {
+      "name": "ViperMC",
+      "ip": "play.vipermc.net",
+      "background": 5
+    },
+    {
+      "name": "BWHub",
+      "ip": "bwhub.net",
+      "background": 4
+    }
+  ],
+  "customizations": [
+    {
+      "name": "Freelook & AutoTextHotKey",
+      "internal": "metadata",
+      "call": "modSettings",
+      "enabled": true
+    },
+    {
+      "name": "Remove Pinned Servers",
+      "internal": "metadata",
+      "call": "pinnedServers",
+      "enabled": true
+    },
+    {
+      "name": "Remove Blog Posts",
+      "internal": "metadata",
+      "call": "blogPosts",
+      "enabled": true
+    },
+    {
+      "name": "Cloaks+",
+      "internal": "cloaksPlus",
+      "enabled": true
+    },
+    {
+      "name": "Remove Mods Packet",
+      "internal": "modpacketRemoval",
+      "enabled": true
+    },
+    {
+      "name": "Nick Hider",
+      "internal": "nickhider",
+      "values": {
+        "to": "SULFURAX"
+      },
+      "enabled": true
+    },
+    {
+      "name": "Lunar Overlays",
+      "internal": "supportOverlays",
+      "enabled": true
+    },
+    {
+      "name": "Reach Text",
+      "internal": "reachText",
+      "values": {
+        "to": "blocks"
+      },
+      "enabled": false
+    },
+    {
+      "name": "Uncap Reach Display",
+      "internal": "uncapReach",
+      "enabled": true
+    },
+    {
+      "name": "Discord RPC",
+      "internal": "rpcUpdate",
+      "values": {
+        "clientID": "920998351430901790",
+        "icon": "logo",
+        "iconText": "Solar Tweaks",
+        "afkText": "AFK",
+        "menuText": "In Menu",
+        "singlePlayerText": "Playing Singleplayer"
+      },
+      "enabled": false
+    },
+    {
+      "name": "Remove Fake Level Head",
+      "internal": "removeFakeLevelhead",
+      "enabled": true
+    },
+    {
+      "name": "Fix Ping Sound",
+      "internal": "fixPings",
+      "enabled": true
+    },
+    {
+      "name": "Remove Hit Delay",
+      "internal": "noHitDelay",
+      "enabled": true
+    },
+    {
+      "name": "Window Title",
+      "internal": "windowName",
+      "values": {
+        "to": "Lunar Client (Modded by Solar Tweaks)"
+      },
+      "enabled": false
+    },
+    {
+      "name": "Privacy",
+      "internal": "websocketPrivacy",
+      "privacyModules": [
+        "tasklistPrivacy",
+        "hostslistPrivacy"
+      ],
+      "enabled": true
+    },
+    {
+      "name": "Level Head",
+      "internal": "levelHead",
+      "values": {
+        "to": "Level"
+      },
+      "enabled": false
+    },
+    {
+      "name": "Toggle Sprint Texts",
+      "internal": "toggleSprintText",
+      "values": {
+        "flying": "flying",
+        "riding": "riding",
+        "descending": "descending",
+        "dismounting": "dismounting",
+        "sneaking": "sneaking",
+        "sprinting": "sprinting"
+      },
+      "enabled": false
+    },
+    {
+      "name": "FPS Spoof",
+      "internal": "fpsSpoof",
+      "values": {
+        "multiplier": 2
+      },
+      "enabled": false
+    },
+    {
+      "name": "FPS",
+      "internal": "fps",
+      "values": {
+        "to": "FPS"
+      },
+      "enabled": false
+    },
+    {
+      "name": "CPS",
+      "internal": "cps",
+      "values": {
+        "to": "CPS"
+      },
+      "enabled": false
+    },
+    {
+      "name": "Auto GG",
+      "internal": "autoGG",
+      "values": {
+        "to": "/chat gg"
+      },
+      "enabled": true
+    },
+    {
+      "name": "Remove hashing",
+      "internal": "removeHashing",
+      "enabled": true
+    },
+    {
+      "name": "Options in Singleplayer",
+      "internal": "lunarOptions",
+      "enabled": true
+    },
+    {
+      "name": "Toggle Sneak in Container",
+      "internal": "toggleSneakContainer",
+      "enabled": true
+    },
+    {
+      "name": "Change ping text",
+      "internal": "pingText",
+      "values": {
+        "to": "ms"
+      },
+      "enabled": false
+    },
+    {
+      "name": "Change ping value",
+      "internal": "pingSpoof",
+      "values": {
+        "pingValue": "100"
+      },
+      "enabled": false
+    },
+    {
+      "name": "Always render cloth cloaks",
+      "internal": "clothCapes",
+      "enabled": true
+    },
+    {
+      "name": "Adjust hurt cam",
+      "internal": "hurtCamShake",
+      "values": {
+        "multiplier": "0"
+      },
+      "enabled": true
+    },
+    {
+      "name": "Remove chat limit",
+      "internal": "chatLimit",
+      "values": {
+        "limit": "999"
+      },
+      "enabled": true
+    },
+    {
+      "name": "Remove Lunar chat cooldown",
+      "internal": "removeChatDelay",
+      "enabled": true
+    },
+    {
+      "name": "Mumble fix",
+      "internal": "mumbleFix",
+      "enabled": true
+    },
+    {
+      "name": "Websocket",
+      "internal": "websocket",
+      "values": {
+        "to": "wss://socket.solartweaks.com"
+      },
+      "enabled": true
+    },
+    {
+      "name": "Show wrapped",
+      "internal": "enableWrapped",
+      "enabled": true
+    }
+  ],
+  "version": "1.7.10",
+  "launchDirectories": [
+    {
+      "version": "1.7.10",
+      "path": "C:\\Users\\Admin\\AppData\\Roaming\\.minecraft"
+    },
+    {
+      "version": "1.8.9",
+      "path": "C:\\Users\\Admin\\AppData\\Roaming\\.minecraft"
+    },
+    {
+      "version": "1.12.2",
+      "path": "C:\\Users\\Admin\\AppData\\Roaming\\.minecraft"
+    },
+    {
+      "version": "1.16.5",
+      "path": "C:\\Users\\Admin\\AppData\\Roaming\\.minecraft"
+    },
+    {
+      "version": "1.17.1",
+      "path": "C:\\Users\\Admin\\AppData\\Roaming\\.minecraft"
+    },
+    {
+      "version": "1.18.2",
+      "path": "C:\\Users\\Admin\\AppData\\Roaming\\.minecraft"
+    },
+    {
+      "version": "1.19.2",
+      "directory": "C:\\Users\\Admin\\AppData\\Roaming\\.minecraft"
+    }
+  ],
+  "ram": "3072",
+  "resolution": {
+    "width": 854,
+    "height": 480
+  },
+  "actionAfterLaunch": "close",
+  "jvmArguments": "-Xverify:none -Xss2M -XX:+UnlockExperimentalVMOptions -XX:+AlwaysActAsServerClassMachine -XX:MaxTenuringThreshold=1 -XX:SurvivorRatio=32 -XX:G1HeapRegionSize=8M -XX:GCTimeLimit=50 -XX:G1MixedGCCountTarget=4 -XX:G1MixedGCLiveThresholdPercent=90 -XX:-UsePerfData -XX:+PerfDisableSharedMem -XX:+UseLargePages -XX:+AlwaysPreTouch -XX:+EliminateLocks -XX:+AggressiveHeap -XX:+EagerJVMCI",
+  "jrePath": "C:\\Users\\Admin\\.lunarclient\\jre\\4dcd188552ce8876d5e55e1f6d22505109bfa4cb\\zulu17.34.19-ca-jre17.0.3-win_x64\\bin",
+  "debugMode": false,
+  "skipChecks": true,
+  "downloadedJres": [
+    "Zulu",
+    "Temurin",
+    "GraalVM"
+  ],
+  "patcherVersion": "1.7.2-PR",
+  "module": "lunar",
+  "SentryEnabled": false
+}

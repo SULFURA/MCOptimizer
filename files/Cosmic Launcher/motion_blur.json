@@ -1,0 +1,9 @@
+{
+  "mod": "motion_blur",
+  "keycode": 0,
+  "enabled": "false",
+  "properties": {
+    "blur_amount": "0.75"
+  },
+  "advancedProperties": {}
+}

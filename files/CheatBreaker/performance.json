@@ -1,0 +1,8 @@
+{
+  "skip_lighting_bl": true,
+  "glint": "ALL",
+  "lazy_chunk_loading": "HIGHEST",
+  "entity_shadow_bl": false,
+  "entity_render": "HIGH",
+  "b_entity_render": "LOWEST"
+}

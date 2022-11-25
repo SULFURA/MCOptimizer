@@ -1,0 +1,14 @@
+{
+  "mod": "chunkborders",
+  "keycode": 0,
+  "enabled": "false",
+  "properties": {
+    "radius": "2",
+    "3d": "false",
+    "border_color": {
+      "value": -8388508,
+      "border_color_rainbow": "false"
+    }
+  },
+  "advancedProperties": {}
+}

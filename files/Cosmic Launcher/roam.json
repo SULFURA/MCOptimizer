@@ -1,0 +1,9 @@
+{
+  "mod": "roam",
+  "keycode": 0,
+  "enabled": "false",
+  "properties": {
+    "roam speed": "4.2"
+  },
+  "advancedProperties": {}
+}

@@ -1,0 +1,104 @@
+{
+  "config": {
+    "fancy_warp_menu": true,
+    "title": {
+      "duration": 4,
+      "minion_cannot_reach": {
+        "enabled": true,
+        "title": "",
+        "subtitle": "\u0026cMinion cannot reach!"
+      },
+      "minion_full": {
+        "enabled": true,
+        "title": "",
+        "subtitle": "\u0026cMinion is full!"
+      },
+      "full_inventory": {
+        "enabled": true,
+        "title": "\u0026cFull Inventory",
+        "subtitle": "",
+        "repeat": false
+      },
+      "magma_boss_warning": {
+        "enabled": true,
+        "title": "\u00266Magma boss spawned!",
+        "subtitle": ""
+      },
+      "no_arrows_alert": {
+        "enabled": true,
+        "title": "",
+        "subtitle": "\u0026eOnly %count% arrows left",
+        "empty_title": "",
+        "empty_subtitle": "\u0026eNo arrows left"
+      },
+      "sea_creature_warning": {
+        "enabled": true,
+        "title": "\u0026eSea creatures spawned!",
+        "subtitle": ""
+      },
+      "special_zealot_alert": {
+        "enabled": true,
+        "title": "\u0026aSpecial Zealot spawned!",
+        "subtitle": "null"
+      },
+      "summon_eye_alert": {
+        "enabled": true,
+        "title": "\u0026aEye summoned!",
+        "subtitle": ""
+      },
+      "disable_location_warning": {
+        "enabled": true
+      },
+      "slayer_boss_alert": {
+        "enabled": true,
+        "title": "\u0026cBoss approaches",
+        "subtitle": "",
+        "repeat": false
+      }
+    },
+    "hud_hiding": {
+      "food_armor": false,
+      "health": false,
+      "mount_health": false
+    },
+    "dont_reset_cursor_inventory": true,
+    "filters": {
+      "soup_message": false,
+      "teleport_message": false
+    },
+    "drop": {
+      "lock_slots": {
+        "enabled": true,
+        "key": 38,
+        "locked_slots": []
+      },
+      "rare_item_check": {
+        "enabled": true
+      },
+      "hotbar_drop": {
+        "enabled": true,
+        "global": false
+      }
+    },
+    "poison_bow": true,
+    "tooltip": {
+      "hide_grey_enchantments": false,
+      "anvil_uses": false,
+      "organize_enchantment": false,
+      "show_broken_fragments": false
+    },
+    "disable_enderman_teleport": true,
+    "discord": {
+      "enabled": true,
+      "showplace": true
+    },
+    "labyconnectgamemode": true,
+    "setting_openers": {
+      "command": true,
+      "button_pause": false,
+      "opening_key": -1
+    },
+    "avoid_night_vision_blinking": false,
+    "roman_replacement": false
+  }
+}

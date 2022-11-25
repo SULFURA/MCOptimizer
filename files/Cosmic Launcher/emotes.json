@@ -1,0 +1,16 @@
+{
+  "mod": "emotes",
+  "keycode": 0,
+  "enabled": "true",
+  "properties": {
+    "slot_1": "default",
+    "slot_2": "take_the_l",
+    "slot_3": "infinite_dab",
+    "slot_4": "hype",
+    "slot_5": "default",
+    "slot_6": "take_the_l",
+    "slot_7": "infinite_dab",
+    "slot_8": "hype"
+  },
+  "advancedProperties": {}
+}

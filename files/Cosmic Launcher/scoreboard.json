@@ -1,0 +1,13 @@
+{
+  "mod": "scoreboard",
+  "keycode": 0,
+  "enabled": "true",
+  "position": "MIDDLE_RIGHT",
+  "x": 0.0,
+  "y": 0.0,
+  "properties": {
+    "scoreboard_scale": "1.0",
+    "numbers": "false"
+  },
+  "advancedProperties": {}
+}

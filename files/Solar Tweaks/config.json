@@ -1,0 +1,203 @@
+{
+  "patcherVersion": "1.7",
+  "debug": false,
+  "enableAll": false,
+  "nickhider": {
+    "from": "You",
+    "to": "SULFURAX",
+    "isEnabled": true
+  },
+  "fps": {
+    "pattern": "\u0001 %s",
+    "from": "FPS",
+    "to": "FPS",
+    "isEnabled": false
+  },
+  "cps": {
+    "pattern": "\u0001 %s",
+    "from": "CPS",
+    "to": "CPS",
+    "isEnabled": false
+  },
+  "autoGG": {
+    "from": "/achat gg",
+    "to": "/chat gg",
+    "isEnabled": true
+  },
+  "levelHead": {
+    "pattern": "%s: ",
+    "from": "Level",
+    "to": "Level",
+    "isEnabled": false
+  },
+  "metadata": {
+    "removeCalls": [
+      "modSettings",
+      "pinnedServers",
+      "blogPosts"
+    ],
+    "isEnabled": true
+  },
+  "modpacketRemoval": {
+    "isEnabled": true
+  },
+  "cloaksPlus": {
+    "isEnabled": true
+  },
+  "windowName": {
+    "from": "Lunar Client (\u0001-\u0001/\u0001)",
+    "to": "Lunar Client (Modded by Solar Tweaks)",
+    "isEnabled": false
+  },
+  "noHitDelay": {
+    "isEnabled": true
+  },
+  "fpsSpoof": {
+    "multiplier": 2,
+    "isEnabled": false
+  },
+  "customCommands": {
+    "commands": {
+      "qb": {
+        "prefix": "/play duels_bridge_duel",
+        "suffix": ""
+      },
+      "qbd": {
+        "prefix": "/play duels_bridge_doubles",
+        "suffix": ""
+      },
+      "db": {
+        "prefix": "/duel ",
+        "suffix": " bridge"
+      },
+      "bwp": {
+        "prefix": "/play bedwars_practice",
+        "suffix": ""
+      }
+    },
+    "useHypixelCommands": true
+  },
+  "rpcUpdate": {
+    "clientID": "920998351430901790",
+    "icon": "logo",
+    "iconText": "Solar Tweaks",
+    "afkText": "AFK",
+    "menuText": "In Menu",
+    "singlePlayerText": "Playing Singleplayer",
+    "versionText": "Minecraft",
+    "displayActivity": true,
+    "customServerMappings": {},
+    "showIcon": true,
+    "bigServerIcon": false,
+    "isEnabled": false
+  },
+  "tasklistPrivacy": {
+    "isEnabled": true
+  },
+  "hostslistPrivacy": {
+    "isEnabled": true
+  },
+  "uncapReach": {
+    "isEnabled": true
+  },
+  "removeFakeLevelhead": {
+    "isEnabled": true
+  },
+  "removeHashing": {
+    "className": "WMMWMWMMWMWWMWMWWWWWWWMMM",
+    "method": {
+      "name": "WWWWWNNNNWMWWWMWWMMMWMMWM",
+      "descriptor": "(Ljava/lang/String;[BZ)Z",
+      "owner": null,
+      "access": null
+    },
+    "isEnabled": true
+  },
+  "debugPackets": {
+    "isEnabled": false
+  },
+  "toggleSprintText": {
+    "replacements": {
+      "flying": "flying",
+      "riding": "riding",
+      "descending": "descending",
+      "dismounting": "dismounting",
+      "sneaking": "sneaking",
+      "sprinting": "sprinting"
+    },
+    "method": {
+      "name": "<clinit>",
+      "descriptor": "()V",
+      "owner": null,
+      "access": 8
+    },
+    "isEnabled": false,
+    "flying": "flying",
+    "riding": "riding",
+    "descending": "descending",
+    "dismounting": "dismounting",
+    "sneaking": "sneaking",
+    "sprinting": "sprinting"
+  },
+  "reachText": {
+    "pattern": "\u0001 %s",
+    "from": "blocks",
+    "to": "blocks",
+    "isEnabled": false
+  },
+  "fixPings": {
+    "isEnabled": true
+  },
+  "lunarOptions": {
+    "isEnabled": true
+  },
+  "supportOverlays": {
+    "isEnabled": true
+  },
+  "toggleSneakContainer": {
+    "isEnabled": true
+  },
+  "pingText": {
+    "pattern": "\u0001 %s",
+    "from": "ms",
+    "to": "ms",
+    "isEnabled": false
+  },
+  "pingSpoof": {
+    "pingValue": "100",
+    "isEnabled": false
+  },
+  "clothCapes": {
+    "isEnabled": true
+  },
+  "hurtCamShake": {
+    "multiplier": "0",
+    "isEnabled": true
+  },
+  "chatLimit": {
+    "limit": "999",
+    "isEnabled": true
+  },
+  "mumbleFix": {
+    "isEnabled": true
+  },
+  "websocket": {
+    "to": "wss://socket.solartweaks.com",
+    "isEnabled": true
+  },
+  "enableWrapped": {
+    "isEnabled": true
+  },
+  "customMods": {
+    "textMods": []
+  },
+  "removeChatDelay": {
+    "isEnabled": true
+  },
+  "allowCosmeticCombinations": {
+    "isEnabled": false
+  },
+  "removeSplashBlur": {
+    "isEnabled": false
+  }
+}

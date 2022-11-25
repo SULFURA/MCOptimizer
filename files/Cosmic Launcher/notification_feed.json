@@ -1,0 +1,12 @@
+{
+  "mod": "notification_feed",
+  "keycode": 0,
+  "enabled": "false",
+  "position": "BOTTOM_RIGHT",
+  "x": 5.0,
+  "y": 3.0,
+  "properties": {
+    "notification_feed_scale": "1.0"
+  },
+  "advancedProperties": {}
+}

@@ -1,0 +1,40 @@
+{
+  "mod": "tabchat",
+  "keycode": 0,
+  "enabled": "false",
+  "properties": {
+    "custom": "false",
+    "font": "Arial",
+    "size": "18"
+  },
+  "advancedProperties": {},
+  "Advanced": {
+    "chatX": "5",
+    "chatY": "17",
+    "chatW": "300",
+    "chatH": "160",
+    "unfocHeight": "0.5",
+    "fadeTime": "200",
+    "historyLen": "100",
+    "msgDelay": "500",
+    "hideTag": "false",
+    "keepChatOpen": "false",
+    "spelling": "true",
+    "visibility": "NORMAL"
+  },
+  "Colors": {
+    "chatBoxColor": "2130706432",
+    "chatTextColor": "-1",
+    "chatBorderColor": "-1090519040"
+  },
+  "General": {
+    "logChat": "true",
+    "splitLog": "true",
+    "timeStampChat": "false",
+    "timeStampStyle": "[23:59:01]",
+    "timeStampColor": "§f",
+    "antiSpam": "false",
+    "antiSpamPrej": "0.0",
+    "unreadFlash": "true"
+  }
+}

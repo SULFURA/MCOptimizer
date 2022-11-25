@@ -1,0 +1,11 @@
+{
+  "mod": "togglesprint",
+  "keycode": 0,
+  "enabled": "true",
+  "properties": {
+    "double_tap": "false",
+    "fly_boost": "true",
+    "fly_boost_amnt": "3.0"
+  },
+  "advancedProperties": {}
+}

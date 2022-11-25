@@ -1,0 +1,29 @@
+{
+  "mod": "armorhud",
+  "keycode": 0,
+  "enabled": "false",
+  "position": "BOTTOM_RIGHT",
+  "x": -5.0,
+  "y": -3.0,
+  "properties": {
+    "armorhud_scale": "1.0",
+    "line_height": "15.0",
+    "list_mode": "Vertical",
+    "mode": "Percent",
+    "held_item": "true",
+    "item_name": "true",
+    "damage_color": "true",
+    "lbl_enabled": "true",
+    "lbl_name": {
+      "value": "Armor Status",
+      "bold": "true",
+      "italic": "false",
+      "underline": "true"
+    },
+    "lbl_color": {
+      "value": -43521,
+      "lbl_color_rainbow": "false"
+    }
+  },
+  "advancedProperties": {}
+}

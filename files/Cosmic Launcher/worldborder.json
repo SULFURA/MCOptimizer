@@ -1,0 +1,12 @@
+{
+  "mod": "worldborder",
+  "keycode": 0,
+  "enabled": "true",
+  "properties": {
+    "color": {
+      "value": -43691,
+      "color_rainbow": "false"
+    }
+  },
+  "advancedProperties": {}
+}

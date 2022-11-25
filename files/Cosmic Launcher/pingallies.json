@@ -1,0 +1,9 @@
+{
+  "mod": "pingallies",
+  "keycode": 0,
+  "enabled": "true",
+  "properties": {
+    "play_ping_sound": "true"
+  },
+  "advancedProperties": {}
+}

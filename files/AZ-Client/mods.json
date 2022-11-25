@@ -1,0 +1,119 @@
+{
+  "motionBlur": {
+    "#enabled": false,
+    "#amount": 4
+  },
+  "ammoDisplay": {
+    "enabled": false,
+    "#bow": true,
+    "#splashPotions": true,
+    "#potions": false,
+    "#goldenApple": false,
+    "#food": false,
+    "#blocks": false
+  },
+  "healthHud": {
+    "enabled": false,
+    "#stackHearts": "HIGH",
+    "#healthText": false,
+    "#foodText": false
+  },
+  "hideCoordinates": {
+    "#enabled": false
+  },
+  "dirBar": {
+    "#enabled": false
+  },
+  "chatTime": {
+    "#enabled": false,
+    "#seconds": false
+  },
+  "env": {
+    "#enabled": false,
+    "#normal.dimension": "DEFAULT",
+    "#normal.weather": "DEFAULT",
+    "#normal.time": -1,
+    "#normal.dayDuration": 0,
+    "#nether.dimension": "DEFAULT",
+    "#nether.weather": "DEFAULT",
+    "#nether.time": -1,
+    "#nether.dayDuration": 0,
+    "#the_end.dimension": "DEFAULT",
+    "#the_end.weather": "DEFAULT",
+    "#the_end.time": -1,
+    "#the_end.dayDuration": 0
+  },
+  "keystroke": {
+    "#enabled": false,
+    "#type": "KEYBOARD",
+    "#moveSymbol": false,
+    "#space": true,
+    "#sneak": true,
+    "#mouseMove": true,
+    "#showCps": true,
+    "#chroma": true,
+    "#border": false
+  },
+  "smallBossbar": {
+    "enabled": true
+  },
+  "dynamicLights": {
+    "#enabled": false,
+    "#fancy": false
+  },
+  "lowFire": {
+    "#enabled": true
+  },
+  "clearWater": {
+    "enabled": true
+  },
+  "potionEffectsDisplay": {
+    "enabled": false,
+    "#textMode": "FULL_NAME",
+    "#timer": true
+  },
+  "sprintInfo": {
+    "enabled": false,
+    "#showWalk": true,
+    "#showSneak": true,
+    "#showSprint": true,
+    "#showFly": true,
+    "#showToggleSneak": true,
+    "#showToggleSprint": true,
+    "#showIcon": true
+  },
+  "hideScoreboardScore": {
+    "enabled": true
+  },
+  "wecui": {
+    "#enabled": false
+  },
+  "customTablist": {
+    "enabled": true,
+    "#displayHead": true,
+    "pingMode": "TEXT",
+    "#backgroundOpacity": 0.5,
+    "#playersCount": false
+  },
+  "hitParticle": {
+    "#enabled": false,
+    "#enchantAmount": 2.0,
+    "#criticalAmount": 2.0
+  },
+  "seeOwnName": {
+    "#enabled": true
+  },
+  "info": {
+    "#enabled": false,
+    "#fps": true,
+    "#position": true,
+    "#direction": true,
+    "#cps": "OFF"
+  },
+  "armorDisplay": {
+    "enabled": false,
+    "#showHand": false,
+    "#damageBar": "ON",
+    "#damageText": "OFF"
+  }
+}

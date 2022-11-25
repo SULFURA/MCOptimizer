@@ -1,0 +1,34 @@
+{
+  "mod": "mapwriter",
+  "keycode": 0,
+  "enabled": "false",
+  "properties": {
+    "smallmap_position": "Top Right",
+    "smallmap_size": "25",
+    "smallmap_circular": "true",
+    "smallmap_rotate": "true",
+    "smallmap_coors_mode": "Small",
+    "smallmap_player_arrow_size": "4",
+    "fac_overlay": "true",
+    "tp_enabled": "true",
+    "tp_command": "tp",
+    "default_tp_height": "80",
+    "background_mode": "Black",
+    "alpha_percent": "25",
+    "realistic_map": "false",
+    "zoom_out_levels": "5",
+    "zoom_in_levels": "-5"
+  },
+  "advancedProperties": {
+    "texture_size": "2048",
+    "linear_texture_scaling": "true",
+    "saved_block_colours": "false",
+    "pixel_snap": "true",
+    "max_chunk_save_distance": "16384",
+    "port_in_name": "true",
+    "chunks_tick": "5",
+    "save_dir_override": "",
+    "reg_output_sp": "true",
+    "reg_output_mp": "true"
+  }
+}

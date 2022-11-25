@@ -1,0 +1,20 @@
+{
+  "mod": "breadcrumbs",
+  "keycode": 0,
+  "enabled": "false",
+  "properties": {
+    "tnt_crumbs": "true",
+    "block_crumbs": "true",
+    "line_width": "1.0",
+    "age_crumbs": "10",
+    "tnt_color": {
+      "value": -1342242816,
+      "tnt_color_rainbow": "false"
+    },
+    "block_color": {
+      "value": -1358889216,
+      "block_color_rainbow": "false"
+    }
+  },
+  "advancedProperties": {}
+}

@@ -1,0 +1,10 @@
+{
+  "mod": "cursorpersistence",
+  "keycode": 0,
+  "enabled": "true",
+  "properties": {
+    "persist_inventory": "true",
+    "persist_duration": "500"
+  },
+  "advancedProperties": {}
+}

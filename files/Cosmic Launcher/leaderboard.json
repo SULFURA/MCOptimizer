@@ -1,0 +1,10 @@
+{
+  "mod": "leaderboard",
+  "keycode": 0,
+  "enabled": "true",
+  "position": "TOP_MIDDLE",
+  "x": 0.0,
+  "y": 0.0,
+  "properties": {},
+  "advancedProperties": {}
+}

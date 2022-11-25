@@ -1,0 +1,20 @@
+{
+  "mod": "compass",
+  "keycode": 0,
+  "enabled": "false",
+  "position": "TOP_MIDDLE",
+  "x": 0.0,
+  "y": 0.0,
+  "properties": {
+    "indicator_color": {
+      "value": -65536,
+      "indicator_color_rainbow": "false"
+    },
+    "compass_color": {
+      "value": -1,
+      "compass_color_rainbow": "false"
+    },
+    "background_enabled": "false"
+  },
+  "advancedProperties": {}
+}

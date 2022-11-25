@@ -1,0 +1,9 @@
+{
+  "mod": "peaceful_mining",
+  "keycode": 0,
+  "enabled": "false",
+  "properties": {
+    "transparency": "0.2"
+  },
+  "advancedProperties": {}
+}

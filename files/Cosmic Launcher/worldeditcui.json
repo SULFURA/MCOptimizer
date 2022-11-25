@@ -1,0 +1,9 @@
+{
+  "mod": "worldeditcui",
+  "keycode": 0,
+  "enabled": "false",
+  "properties": {
+    "promiscuous": "false"
+  },
+  "advancedProperties": {}
+}

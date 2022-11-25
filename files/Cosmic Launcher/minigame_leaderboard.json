@@ -1,0 +1,14 @@
+{
+  "mod": "minigame_leaderboard",
+  "keycode": 0,
+  "enabled": "true",
+  "position": "TOP_LEFT",
+  "x": 405.0,
+  "y": 2.0,
+  "properties": {
+    "minigame_leaderboard_scale": "1.0",
+    "num_players": "10",
+    "background_opacity": "0.4"
+  },
+  "advancedProperties": {}
+}

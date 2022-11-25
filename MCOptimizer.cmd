@@ -215,6 +215,7 @@ goto 1.7.10_GPU
 
 :1.7.10_GPU_DynOFF
 cls
+
 curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\.minecraft\optionsof.txt" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/1.7.10_GPU_DynOFF.txt"
 SET msgboxTitle=IMPORTANT
 SET msgboxBody=Open your game and set your Render Distance between 2 - 8 and your FPS to Unlimited

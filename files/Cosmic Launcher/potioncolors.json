@@ -1,0 +1,78 @@
+{
+  "mod": "potioncolors",
+  "keycode": 0,
+  "enabled": "false",
+  "properties": {
+    "RESET TO DEFAULT": "false",
+    "potion_color_1": {
+      "value": -8605754
+    },
+    "potion_color_2": {
+      "value": -10851199
+    },
+    "potion_color_3": {
+      "value": -2506685
+    },
+    "potion_color_4": {
+      "value": -11910633
+    },
+    "potion_color_5": {
+      "value": -7134173
+    },
+    "potion_color_6": {
+      "value": -515037
+    },
+    "potion_color_7": {
+      "value": -12383735
+    },
+    "potion_color_8": {
+      "value": -14483636
+    },
+    "potion_color_9": {
+      "value": -11199158
+    },
+    "potion_color_10": {
+      "value": -3318613
+    },
+    "potion_color_11": {
+      "value": -6732486
+    },
+    "potion_color_12": {
+      "value": -1795526
+    },
+    "potion_color_13": {
+      "value": -13741415
+    },
+    "potion_color_14": {
+      "value": -8420462
+    },
+    "potion_color_15": {
+      "value": -14737629
+    },
+    "potion_color_16": {
+      "value": -14737503
+    },
+    "potion_color_17": {
+      "value": -10979757
+    },
+    "potion_color_18": {
+      "value": -12038840
+    },
+    "potion_color_19": {
+      "value": -11627727
+    },
+    "potion_color_20": {
+      "value": -13293017
+    },
+    "potion_color_21": {
+      "value": -492253
+    },
+    "potion_color_22": {
+      "value": -14331227
+    },
+    "potion_color_23": {
+      "value": -515037
+    }
+  },
+  "advancedProperties": {}
+}

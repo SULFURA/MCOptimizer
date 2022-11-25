@@ -1,0 +1,32 @@
+{
+  "mod": "vk",
+  "keycode": 0,
+  "enabled": "false",
+  "position": "MIDDLE_RIGHT",
+  "x": 0.0,
+  "y": 0.0,
+  "properties": {
+    "vk_scale": "1.0",
+    "keystrokes": "true",
+    "mouse": "true",
+    "cps": "true",
+    "space": "false",
+    "text_color": {
+      "value": -1,
+      "text_color_rainbow": "false"
+    },
+    "text_held_color": {
+      "value": -16777216,
+      "text_held_color_rainbow": "false"
+    },
+    "bg_color": {
+      "value": -1744830464,
+      "bg_color_rainbow": "false"
+    },
+    "bg_color_held": {
+      "value": -1728053249,
+      "bg_color_held_rainbow": "false"
+    }
+  },
+  "advancedProperties": {}
+}

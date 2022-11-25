@@ -1,0 +1,11 @@
+{
+  "mod": "screenshot",
+  "keycode": 0,
+  "enabled": "true",
+  "properties": {
+    "clipboard": "true",
+    "chat": "true",
+    "novanilla": "false"
+  },
+  "advancedProperties": {}
+}
