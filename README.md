@@ -26,6 +26,20 @@
 
 * Optimize your Optifine options for the best possible results based on several factors
 
+Support for the launchers below (Optimization of the launchers, please save/duplicate your mod profiles on the different launchers under another name than the default one) :
+* AZ-Client
+* Badlion Client
+* Badlion Client Lite
+* BatMod
+* BlazingPack
+* CheatBreaker
+* Cosmic Launcher
+* Feather Client
+* LabyMod
+* Lunar Client
+* Salwyrr Launcher
+* Solar Tweaks
+
 ## How To Use
 
 To use this script, download it <a href="https://github.com/SULFURA/MCOptimizer/releases/latest" target="_blank">HERE</a> and launch it as an Administrator.
