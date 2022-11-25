@@ -223,92 +223,37 @@ curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\.lc\optionsof.txt" "https:
 if exist "C:\Users\%username%\AppData\Roaming\.az-client\config\" (
 	curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\.az-client\config\mods.json" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/AZ-Client/mods.json"
 	curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\.az-client\config\options.txt" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/AZ-Client/options_gpu.json"
-	SET msgboxTitle=IMPORTANT
-	SET msgboxBody=Open your game and set your Render Distance between 2 - 8 and your FPS to Unlimited
-	SET tmpmsgbox=%temp%\~tmpmsgbox.vbs
-	IF EXIST "%tmpmsgbox%" DEL /F /Q "%tmpmsgbox%"
-	ECHO msgbox "%msgboxBody%",0,"%msgboxTitle%">"%tmpmsgbox%"
-	WSCRIPT "%tmpmsgbox%"
-	exit
-) else (
-	exit
 )
 
 :: Badlion Client
 if exist "C:\Users\%username%\AppData\Roaming\.minecraft\BLClient-Mod-Profiles\" (
 	curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\.minecraft\badlion_settings.json" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/Badlion Client/badlion_settings.json"
 	curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\.minecraft\BLClient-Mod-Profiles\Vanilla.zip" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/Badlion Client/Vanilla.zip"
-	SET msgboxTitle=IMPORTANT
-	SET msgboxBody=Open your game and set your Render Distance between 2 - 8 and your FPS to Unlimited
-	SET tmpmsgbox=%temp%\~tmpmsgbox.vbs
-	IF EXIST "%tmpmsgbox%" DEL /F /Q "%tmpmsgbox%"
-	ECHO msgbox "%msgboxBody%",0,"%msgboxTitle%">"%tmpmsgbox%"
-	WSCRIPT "%tmpmsgbox%"
-	exit
-) else (
-	exit
 )
 
 :: Badlion Client Lite
 if exist "C:\Users\%username%\AppData\Roaming\.minecraft\BLClient-Mod-Profiles\" (
 	curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\.minecraft\badlion_settings.json" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/Badlion Client Lite/badlion_settings.json"
 	curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\.minecraft\BLClient-Mod-Profiles\Vanilla.zip" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/Badlion Client Lite/Vanilla.zip"
-	SET msgboxTitle=IMPORTANT
-	SET msgboxBody=Open your game and set your Render Distance between 2 - 8 and your FPS to Unlimited
-	SET tmpmsgbox=%temp%\~tmpmsgbox.vbs
-	IF EXIST "%tmpmsgbox%" DEL /F /Q "%tmpmsgbox%"
-	ECHO msgbox "%msgboxBody%",0,"%msgboxTitle%">"%tmpmsgbox%"
-	WSCRIPT "%tmpmsgbox%"
-	exit
-
-) else (
-	exit
-)
+) 
 
 :: BatMod
 if exist "C:\Users\%username%\AppData\Roaming\.minecraft\BatMod\" (
 	curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\.minecraft\BatMod\hud.txt" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/BatMod/hud.txt"
 	curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\.minecraft\BatMod\options.txt" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/BatMod/options.txt"
-	SET msgboxTitle=IMPORTANT
-	SET msgboxBody=Open your game and set your Render Distance between 2 - 8 and your FPS to Unlimited
-	SET tmpmsgbox=%temp%\~tmpmsgbox.vbs
-	IF EXIST "%tmpmsgbox%" DEL /F /Q "%tmpmsgbox%"
-	ECHO msgbox "%msgboxBody%",0,"%msgboxTitle%">"%tmpmsgbox%"
-	WSCRIPT "%tmpmsgbox%"
-	exit
-) else (
-	exit
 )
 
 :: BlazingPack
 if exist "C:\Users\%username%\AppData\Roaming\Crystal-Launcher\instances\Blazingpack\" (
 	curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\Crystal-Launcher\instances\Blazingpack\.minecraft\optionsbp.dat" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/BlazingPack/optionsbp.dat"
 	curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\Crystal-Launcher\instances\Blazingpack\.minecraft\optionsofbp.txt" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/BlazingPack/optionsofbp.txt"
-	SET msgboxTitle=IMPORTANT
-	SET msgboxBody=Open your game and set your Render Distance between 2 - 8 and your FPS to Unlimited
-	SET tmpmsgbox=%temp%\~tmpmsgbox.vbs
-	IF EXIST "%tmpmsgbox%" DEL /F /Q "%tmpmsgbox%"
-	ECHO msgbox "%msgboxBody%",0,"%msgboxTitle%">"%tmpmsgbox%"
-	WSCRIPT "%tmpmsgbox%"
-	exit
-) else (
-	exit
-)
+) 
 
 :: CheatBreaker
 if exist "C:\Users\%username%\AppData\Roaming\.minecraft\config\cheatbreaker\" (
 	curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\.minecraft\config\cheatbreaker\Default\general.json" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/CheatBreaker/general.json"
 	curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\.minecraft\config\cheatbreaker\Default\mods.json" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/CheatBreaker/mods.json"
 	curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\.minecraft\config\cheatbreaker\Default\performance.json" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/CheatBreaker/performance.json"
-	SET msgboxTitle=IMPORTANT
-	SET msgboxBody=Open your game and set your Render Distance between 2 - 8 and your FPS to Unlimited
-	SET tmpmsgbox=%temp%\~tmpmsgbox.vbs
-	IF EXIST "%tmpmsgbox%" DEL /F /Q "%tmpmsgbox%"
-	ECHO msgbox "%msgboxBody%",0,"%msgboxTitle%">"%tmpmsgbox%"
-	WSCRIPT "%tmpmsgbox%"
-	exit
-) else (
-	exit
 )
 
 :: Cosmic Launcher
@@ -356,15 +301,6 @@ if exist "C:\Users\%username%\AppData\Roaming\.minecraft\cosmic\profiles\" (
 	curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\.minecraft\cosmic\profiles\default\worldeditcui.json" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/Cosmic Launcher/worldeditcui.json"
 	curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\.minecraft\cosmic\profiles\default\xp_bar.json" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/Cosmic Launcher/xp_bar.json"
 	curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\.minecraft\cosmic\profiles\default\xp_text.json" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/Cosmic Launcher/xp_text.json"
-	SET msgboxTitle=IMPORTANT
-	SET msgboxBody=Open your game and set your Render Distance between 2 - 8 and your FPS to Unlimited
-	SET tmpmsgbox=%temp%\~tmpmsgbox.vbs
-	IF EXIST "%tmpmsgbox%" DEL /F /Q "%tmpmsgbox%"
-	ECHO msgbox "%msgboxBody%",0,"%msgboxTitle%">"%tmpmsgbox%"
-	WSCRIPT "%tmpmsgbox%"
-	exit
-) else (
-	exit
 )
 
 :: Feather Client
@@ -387,15 +323,6 @@ if exist "C:\Users\%username%\AppData\Roaming\.minecraft\feather\" (
 	curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\.ft\config\patcher_sounds.toml" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/Feather Client/patcher_sounds.toml"
 	curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\.ft\config\patcher_sounds.toml" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/Feather Client/patcher.toml"
 	curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\.ft\feather\patcher_sounds.toml" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/Feather Client/sidebar.json"
-	SET msgboxTitle=IMPORTANT
-	SET msgboxBody=Open your game and set your Render Distance between 2 - 8 and your FPS to Unlimited
-	SET tmpmsgbox=%temp%\~tmpmsgbox.vbs
-	IF EXIST "%tmpmsgbox%" DEL /F /Q "%tmpmsgbox%"
-	ECHO msgbox "%msgboxBody%",0,"%msgboxTitle%">"%tmpmsgbox%"
-	WSCRIPT "%tmpmsgbox%"
-	exit
-) else (
-	exit
 )
 
 :: LabyMod
@@ -416,15 +343,6 @@ if exist "C:\Users\%username%\AppData\Roaming\.minecraft\LabyMod\" (
 	curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\.minecraft\LabyMod\addons-1.8\config\ToggleSneak.json" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/LabyMod/ToggleSneak.json"
 	curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\.minecraft\LabyMod\addons-1.8\config\VoiceChat.json" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/LabyMod/VoiceChat.json"
 	curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\.minecraft\LabyMod\addons-1.8\config\WorldEditCUI.json" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/LabyMod/WorldEditCUI.json"
-	SET msgboxTitle=IMPORTANT
-	SET msgboxBody=Open your game and set your Render Distance between 2 - 8 and your FPS to Unlimited
-	SET tmpmsgbox=%temp%\~tmpmsgbox.vbs
-	IF EXIST "%tmpmsgbox%" DEL /F /Q "%tmpmsgbox%"
-	ECHO msgbox "%msgboxBody%",0,"%msgboxTitle%">"%tmpmsgbox%"
-	WSCRIPT "%tmpmsgbox%"
-	exit
-) else (
-	exit
 )
 
 :: Lunar Client
@@ -432,15 +350,6 @@ if exist "C:\Users\%username%\.lunarclient\settings\game\Default\" (
 	curl -g -L -# -o "C:\Users\%username%\.lunarclient\settings\game\Default\general.json" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/Lunar Client/general.json"
 	curl -g -L -# -o "C:\Users\%username%\.lunarclient\settings\game\Default\mods.json" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/Lunar Client/mods.json"
 	curl -g -L -# -o "C:\Users\%username%\.lunarclient\settings\game\Default\performance.json" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/Lunar Client/performance.json"
-	SET msgboxTitle=IMPORTANT
-	SET msgboxBody=Open your game and set your Render Distance between 2 - 8 and your FPS to Unlimited
-	SET tmpmsgbox=%temp%\~tmpmsgbox.vbs
-	IF EXIST "%tmpmsgbox%" DEL /F /Q "%tmpmsgbox%"
-	ECHO msgbox "%msgboxBody%",0,"%msgboxTitle%">"%tmpmsgbox%"
-	WSCRIPT "%tmpmsgbox%"
-	exit
-) else (
-	exit
 )
 
 
@@ -452,31 +361,21 @@ if exist "C:\Users\%username%\AppData\Roaming\.Salwyrr\" (
 	curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\.Salwyrr\launcher\cef\SalwyrrAdBrowser.jar" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/Salwyrr Launcher/SalwyrrAdBrowser.jar"
 	curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\.Salwyrr\launcher\libs\SalwyrrConfig.jar" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/Salwyrr Launcher/SalwyrrConfig.jar"
 	curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\.Salwyrr\optionsof.txt" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/1.7.10_GPU_DynOFF.txt"
-	SET msgboxTitle=IMPORTANT
-	SET msgboxBody=Open your game and set your Render Distance between 2 - 8 and your FPS to Unlimited
-	SET tmpmsgbox=%temp%\~tmpmsgbox.vbs
-	IF EXIST "%tmpmsgbox%" DEL /F /Q "%tmpmsgbox%"
-	ECHO msgbox "%msgboxBody%",0,"%msgboxTitle%">"%tmpmsgbox%"
-	WSCRIPT "%tmpmsgbox%"
-	exit
-) else (
-	exit
 )
 
 :: Solar Tweaks
-if exist "C:\Users\%username%\AppData\Roaming\Crystal-Launcher\instances\Blazingpack\" (
-	curl -g -L -# -o "C:\Users\%username%\.lunarclient\solartweaks\config.json" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/Solar Tweaks/badlion_settings.json"
+if exist "C:\Users\%username%\.lunarclient\solartweaks\" (
+	curl -g -L -# -o "C:\Users\%username%\.lunarclient\solartweaks\config.json" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/Solar Tweaks/config.json"
 	curl -g -L -# -o "C:\Users\%username%\AppData\Roaming\solartweaks\settings.json" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/Solar Tweaks/settings.json"
-	SET msgboxTitle=IMPORTANT
-	SET msgboxBody=Open your game and set your Render Distance between 2 - 8 and your FPS to Unlimited
-	SET tmpmsgbox=%temp%\~tmpmsgbox.vbs
-	IF EXIST "%tmpmsgbox%" DEL /F /Q "%tmpmsgbox%"
-	ECHO msgbox "%msgboxBody%",0,"%msgboxTitle%">"%tmpmsgbox%"
-	WSCRIPT "%tmpmsgbox%"
-	exit
-) else (
-	exit
 )
+
+SET msgboxTitle=IMPORTANT
+SET msgboxBody=Open your game and set your Render Distance between 2 - 8 and your FPS to Unlimited
+SET tmpmsgbox=%temp%\~tmpmsgbox.vbs
+IF EXIST "%tmpmsgbox%" DEL /F /Q "%tmpmsgbox%"
+ECHO msgbox "%msgboxBody%",0,"%msgboxTitle%">"%tmpmsgbox%"
+WSCRIPT "%tmpmsgbox%"
+exit
 
 :1.7.10_GPU_DynON
 cls
