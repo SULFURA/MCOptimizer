@@ -16,8 +16,10 @@
 @echo off
 color 03
 Mode 128,25
-title Script MCOptimizer 2.1
+title Script MCOptimizer 2.2
 setlocal EnableDelayedExpansion
+
+C:
 
 :: Disable LUA
 Reg.exe add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System" /v "EnableLUA" /t REG_DWORD /d "0" /f
@@ -39,7 +41,7 @@ Reg add HKCU\CONSOLE /v VirtualTerminalLevel /t REG_DWORD /d 1 /f >nul 2>&1
 goto CheckUpdates
 
 :CheckUpdates
-set local=2.1
+set local=2.2
 set localtwo=%local%
 if exist "%temp%\Updater.bat" DEL /S /Q /F "%temp%\Updater.bat" >nul 2>&1
 curl -g -L -# -o "%temp%\Updater.bat" "https://raw.githubusercontent.com/SULFURA/MCOptimizer/main/files/MCOptimizer_Version" >nul 2>&1
@@ -87,7 +89,7 @@ goto Menu
 cls
 echo.
 echo.
-call :ColorText 08  "                                                            Version 2.1 
+call :ColorText 08  "                                                            Version 2.2 
 echo.
 echo.
 echo.                                                     .88b  d88.  .o88b.  .d88b.     
@@ -131,7 +133,7 @@ goto Menu
 cls
 echo.
 echo.
-call :ColorText 08  "                                                            Version 2.1 
+call :ColorText 08  "                                                            Version 2.2 
 echo.
 echo.
 echo.                                                     .88b  d88.  .o88b.  .d88b.     
@@ -174,7 +176,7 @@ goto 1
 cls
 echo.
 echo.
-call :ColorText 08  "                                                            Version 2.1 
+call :ColorText 08  "                                                            Version 2.2 
 echo.
 echo.
 echo.                                                     .88b  d88.  .o88b.  .d88b.     
@@ -545,7 +547,7 @@ exit
 cls
 echo.
 echo.
-call :ColorText 08  "                                                            Version 2.1 
+call :ColorText 08  "                                                            Version 2.2 
 echo.
 echo.
 echo.                                                     .88b  d88.  .o88b.  .d88b.     
@@ -916,7 +918,7 @@ exit
 cls
 echo.
 echo.
-call :ColorText 08  "                                                            Version 2.1 
+call :ColorText 08  "                                                            Version 2.2 
 echo.
 echo.
 echo.                                                     .88b  d88.  .o88b.  .d88b.     
@@ -959,7 +961,7 @@ goto 2
 cls
 echo.
 echo.
-call :ColorText 08  "                                                            Version 2.1 
+call :ColorText 08  "                                                            Version 2.2 
 echo.
 echo.
 echo.                                                     .88b  d88.  .o88b.  .d88b.     
@@ -1330,7 +1332,7 @@ exit
 cls
 echo.
 echo.
-call :ColorText 08  "                                                            Version 2.1 
+call :ColorText 08  "                                                            Version 2.2 
 echo.
 echo.
 echo.                                                     .88b  d88.  .o88b.  .d88b.     
